@@ -20,5 +20,5 @@ A Python-based cybersecurity toolkit with multiple security tools, including sca
 ## Installation  
 Clone the repository:  
 ```bash
-git clone https://github.com/yourusername/cyber-toolkit.git
-cd cyber-toolkit
+git clone https://github.com/Lawzen2/cyber-tool-.git
+cd cyber-tool-
